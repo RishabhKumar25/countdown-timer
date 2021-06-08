@@ -1,4 +1,15 @@
 
+
+/* Author : Rishabh Kumar 
+   Youtube : Binary Cumates
+   Instagram : @i_m_rishabhkarn
+
+
+*/
+
+
+
+
         const daysE = document.getElementById('days');
         const hoursE = document.getElementById('hours');
         const minutesE = document.getElementById('mins');
